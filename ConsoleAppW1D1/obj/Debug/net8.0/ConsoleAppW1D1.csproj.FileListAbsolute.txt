@@ -1,0 +1,15 @@
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\bin\Debug\net8.0\ConsoleAppW1D1.exe
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\bin\Debug\net8.0\ConsoleAppW1D1.deps.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\bin\Debug\net8.0\ConsoleAppW1D1.runtimeconfig.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\bin\Debug\net8.0\ConsoleAppW1D1.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\bin\Debug\net8.0\ConsoleAppW1D1.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.AssemblyInfoInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.AssemblyInfo.cs
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.csproj.CoreCompileInputs.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.sourcelink.json
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\refint\ConsoleAppW1D1.dll
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.pdb
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ConsoleAppW1D1.genruntimeconfig.cache
+C:\Users\fsach\Desktop\Epicode\Back-end\Unita 1\Week 1\Day1\BE-u1-w1-d1\ConsoleAppW1D1\obj\Debug\net8.0\ref\ConsoleAppW1D1.dll
